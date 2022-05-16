@@ -1,6 +1,6 @@
-# File Renamer
+# File schema shaper
 
-Catalog files in a json database and be able to change their name format with ease
+Catalog images in a json database to change file name schema with ease
 
 ## Project goal
 

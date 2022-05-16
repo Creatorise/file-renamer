@@ -1,20 +1,20 @@
 {
-  "name": "file-renamer",
-  "version": "0.0.0",
-  "description": "Catalog files in a json database and be able to change their name format with ease",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Creatorise/file-renamer.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Creatorise/file-renamer/issues"
-  },
-  "homepage": "https://github.com/Creatorise/file-renamer#readme"
+    "name": "file-schema-shaper",
+    "version": "0.0.0",
+    "description": "Catalog images in a json database to change file name schema with ease",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Creatorise/file-renamer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Creatorise/file-renamer/issues"
+    },
+    "homepage": "https://github.com/Creatorise/file-renamer#readme"
 }
